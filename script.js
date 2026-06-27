@@ -9,76 +9,62 @@ let produtos = [];
 let dados = null;
 
 async function carregarCatalogo() {
+  try {
+    const response = await fetch("produtos.json");
 
-    try {
+    if (!response.ok)
+      throw new Error("Não foi possível carregar produtos.json");
 
-        const response = await fetch("produtos.json");
+    dados = await response.json();
 
-        if (!response.ok)
-            throw new Error("Não foi possível carregar produtos.json");
+    produtos = dados.produtos;
 
-        dados = await response.json();
+    productCount.textContent = dados.quantidade;
 
-        produtos = dados.produtos;
+    generatedDate.textContent = new Date(dados.geradoEm).toLocaleDateString(
+      "pt-BR",
+    );
 
-        productCount.textContent = dados.quantidade;
-
-        generatedDate.textContent =
-            new Date(dados.geradoEm)
-                .toLocaleDateString("pt-BR");
-
-        renderizar(produtos);
-
-    }
-
-    catch (erro) {
-
-        catalog.innerHTML = `
+    renderizar(produtos);
+  } catch (erro) {
+    catalog.innerHTML = `
             <h2>Erro ao carregar catálogo</h2>
             <p>${erro.message}</p>
         `;
 
-        console.error(erro);
-
-    }
-
+    console.error(erro);
+  }
 }
 
 function renderizar(lista) {
+  catalog.innerHTML = "";
+  sectionsNav.innerHTML = "";
 
-    catalog.innerHTML = "";
-    sectionsNav.innerHTML = "";
+  const secoes = {};
 
-    const secoes = {};
+  lista.forEach((produto) => {
+    if (!secoes[produto.secao]) {
+      secoes[produto.secao] = [];
+    }
 
-    lista.forEach(produto => {
+    secoes[produto.secao].push(produto);
+  });
 
-        if (!secoes[produto.secao]) {
+  Object.keys(secoes).forEach((secao) => {
+    const id = criarId(secao);
 
-            secoes[produto.secao] = [];
-
-        }
-
-        secoes[produto.secao].push(produto);
-
-    });
-
-    Object.keys(secoes).forEach(secao => {
-
-        const id = criarId(secao);
-
-        sectionsNav.innerHTML += `
+    sectionsNav.innerHTML += `
             <a href="#${id}">
                 ${secao}
             </a>
         `;
 
-        const cards = secoes[secao]
-            .sort((a, b) => a.preco - b.preco)
-            .map(produto => criarCard(produto))
-            .join("");
+    const cards = secoes[secao]
+      .sort((a, b) => a.preco - b.preco)
+      .map((produto) => criarCard(produto))
+      .join("");
 
-        catalog.innerHTML += `
+    catalog.innerHTML += `
 
             <section
                 class="section"
@@ -104,14 +90,11 @@ function renderizar(lista) {
             </section>
 
         `;
-
-    });
-
+  });
 }
 
 function criarCard(produto) {
-
-    return `
+  return `
 
         <article class="card">
 
@@ -143,6 +126,7 @@ function criarCard(produto) {
 
                     </span>
 
+
                     <span class="allowed">
 
                         ✔ Permitido
@@ -150,83 +134,57 @@ function criarCard(produto) {
                     </span>
 
                 </div>
+                                    <span class="priceFree">
+
+                        Livre para pedir
+
+                    </span>
 
             </div>
 
         </article>
 
     `;
-
 }
 
 function criarId(texto) {
-
-    return texto
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "")
-        .replace(/[^\w\s]/g, "")
-        .replace(/\s+/g, "-")
-        .toLowerCase();
-
+  return texto
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^\w\s]/g, "")
+    .replace(/\s+/g, "-")
+    .toLowerCase();
 }
 
-search.addEventListener("input", e => {
+search.addEventListener("input", (e) => {
+  const termo = e.target.value.toLowerCase().trim();
 
-    const termo = e.target.value
-        .toLowerCase()
-        .trim();
+  if (!termo) {
+    renderizar(produtos);
 
-    if (!termo) {
+    return;
+  }
 
-        renderizar(produtos);
+  const filtrados = produtos.filter(
+    (produto) =>
+      produto.titulo.toLowerCase().includes(termo) ||
+      produto.descricao.toLowerCase().includes(termo) ||
+      produto.secao.toLowerCase().includes(termo),
+  );
 
-        return;
-
-    }
-
-    const filtrados = produtos.filter(produto =>
-
-        produto.titulo
-            .toLowerCase()
-            .includes(termo)
-
-        ||
-
-        produto.descricao
-            .toLowerCase()
-            .includes(termo)
-
-        ||
-
-        produto.secao
-            .toLowerCase()
-            .includes(termo)
-
-    );
-
-    renderizar(filtrados);
-
+  renderizar(filtrados);
 });
 
 backToTop.addEventListener("click", () => {
+  window.scrollTo({
+    top: 0,
 
-    window.scrollTo({
-
-        top: 0,
-
-        behavior: "smooth"
-
-    });
-
+    behavior: "smooth",
+  });
 });
 
 window.addEventListener("scroll", () => {
-
-    backToTop.style.display =
-        window.scrollY > 400
-            ? "block"
-            : "none";
-
+  backToTop.style.display = window.scrollY > 400 ? "block" : "none";
 });
 
 carregarCatalogo();

@@ -274,10 +274,21 @@ body{
 }
 
 .price{
+    text-decoration: line-through;
 
-    color:#1b8d3f;
+    color:#555555;
 
     font-size:28px;
+
+    font-weight:700;
+
+}
+
+.priceFree{
+
+    color:#15803cb7;
+
+    font-size:20px;
 
     font-weight:700;
 

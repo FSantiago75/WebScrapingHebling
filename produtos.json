@@ -6,27 +6,6 @@
   "quantidade": 63,
   "produtos": [
     {
-      "secao": "Entradas",
-      "titulo": "Carpaccio",
-      "descricao": "Acompanhado de pesto de rúcula, folhas de rúcula, parmesão e pão italiano.",
-      "preco": 59.9,
-      "imagem": "https://lh3.googleusercontent.com/GxSC93ZnKxHAfqsDjSCW9rFsa1ibSVfrJfSEqcgnvsY0gC5tdh3CkOaN0Us50J40h5MN-tDEjPKy5Jnv7VdPWQLFAkam5q--=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
-    },
-    {
-      "secao": "Entradas",
-      "titulo": "Bruschetta do cheff",
-      "descricao": "Deliciosa entrada.Preparada com pão italiano, tomates finos, azeite, manjericão e muçarela",
-      "preco": 26.9,
-      "imagem": "https://lh3.googleusercontent.com/--B6OtPJyCqAAwUdcVwhJnkLNu7ZYiJDEJVcwuHA3MSpnT5YEy3WensMXl_OHfvdt1Z8HaikPLNtBi354FDWHD61hxw3hSDSWWE=w612-h420-fcrop64=1,035713b7ffffe1e9-nu-e365-rw"
-    },
-    {
-      "secao": "Entradas",
-      "titulo": "Caesar",
-      "descricao": "Alface americano, tomate cereja, tiras de frango grelhado, parmesão e molho caesar.",
-      "preco": 42.9,
-      "imagem": "https://lh3.googleusercontent.com/HyYWnXuX5pEkBy6Ydw7KU0Me_NahuhlaQIAUTdBHk0WM53xhSVEviI0qpMcyQN9_Q7lHTpF7rg9Ee67gs-Q3kORkapGHaV5v=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
-    },
-    {
       "secao": "Sanduíches",
       "titulo": "Churrasco Hebling Boca de Anjo",
       "descricao": "Carne selecionada com queijo muçarela montado em pão baguete cortado em “boca de anjo”, acompanha vinagrete e maionese defumada.",
@@ -335,34 +314,6 @@
       "imagem": "https://lh3.googleusercontent.com/P8fMStHVOe-X2klPNqMLs6jOh-jxBL2xJVo_rOmvfG8H11whZEoTCoUnvkpXCNxcFFULfKp2fsZM-gmyCmq5r1cQxHr-NUQncQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
     },
     {
-      "secao": "Bebidas",
-      "titulo": "Red Bull",
-      "descricao": "",
-      "preco": 18,
-      "imagem": "https://lh3.googleusercontent.com/6l_3OrHrZTy2arEZfWdXmzyqR8q0SEaL0H-f2lcHBR3PGB5-7HDw3Vfyyd1H_zehfF09R8Lm4XqHtU8MoLZWOgRSePkTMmQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
-    },
-    {
-      "secao": "Bebidas",
-      "titulo": "Smirnoff ICE",
-      "descricao": "",
-      "preco": 16,
-      "imagem": "https://lh3.googleusercontent.com/RCnl81OIBfQrbkHmfKP8QQ_5a-L_tnJdYEiDFTPAWMmZr7qxNjIJjNmX9-_KmUhhYBdxW0nPv-BtX_H7E3977rSmj4M9obTlDQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
-    },
-    {
-      "secao": "Bebidas",
-      "titulo": "Heineken Zero",
-      "descricao": "",
-      "preco": 14.9,
-      "imagem": "https://lh3.googleusercontent.com/eUz9zbdAjcpKPH9Tu9DkNyzY6UQUmjrmlkeeNvH_OdNuzp09tUx2_Y2G-7aqI9YUagCZpyTljhsjKQvmRVvVOQBac-ad36lv=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
-    },
-    {
-      "secao": "Bebidas",
-      "titulo": "Soda Italiana",
-      "descricao": "Xarope de frutas e água com gás, sabores: cereja, maçã verde,frutas vermelhas, cramberry, limão siciliano e tangerina.",
-      "preco": 19,
-      "imagem": "https://lh3.googleusercontent.com/yhMmQ4mwqiffnZpXXqz_c7f5ac6usJ0YZu6CgifTBU906xUq7rvlHLRqU_jI6UGxobelNC9ZirMabYagZ8ap9zdUlNqP0dyJ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
-    },
-    {
       "secao": "Sucos",
       "titulo": "Abacaxi - 370ml (Polpa)",
       "descricao": "",
@@ -396,13 +347,6 @@
       "descricao": "",
       "preco": 11.9,
       "imagem": "https://lh3.googleusercontent.com/IpJl3ewaoZfERGjQ9aI5p11Thgn1exaLP-Td2MkS-cL8B_83cVSbMBz-INh1xGXmsl3eTOCeRdMSz5rgrrMpSITwFyMg9RXI=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
-    },
-    {
-      "secao": "Sucos",
-      "titulo": "Limonada suiça - 370ml",
-      "descricao": "",
-      "preco": 16,
-      "imagem": "https://lh3.googleusercontent.com/CGS1v_j0bTFl6cVl5xqh-xFHV6lSc-qm-qON0LPZrwJLTlqEQsX-1Gl0C5bP9I48Z_eldgg2DCbwYOQUUckc3k8ShWAEvG4n_yM=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
     },
     {
       "secao": "Sucos",
