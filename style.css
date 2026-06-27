@@ -310,37 +310,6 @@ body{
 
 }
 
-#backToTop{
-
-    position:fixed;
-
-    right:25px;
-
-    bottom:25px;
-
-    width:55px;
-
-    height:55px;
-
-    border:none;
-
-    border-radius:50%;
-
-    background:#1d8bff;
-
-    color:white;
-
-    font-size:24px;
-
-    cursor:pointer;
-
-    box-shadow:
-    0 8px 20px rgba(0,0,0,.25);
-
-    transition:.2s;
-
-}
-
 #backToTop:hover{
 
     transform:scale(1.08);

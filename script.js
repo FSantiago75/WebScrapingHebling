@@ -3,7 +3,6 @@ const sectionsNav = document.getElementById("sectionsNav");
 const search = document.getElementById("search");
 const productCount = document.getElementById("productCount");
 const generatedDate = document.getElementById("generatedDate");
-const backToTop = document.getElementById("backToTop");
 
 let produtos = [];
 let dados = null;
@@ -134,7 +133,7 @@ function criarCard(produto) {
                     </span>
 
                 </div>
-                                    <span class="priceFree">
+                    <span class="priceFree">
 
                         Livre para pedir
 
@@ -173,18 +172,6 @@ search.addEventListener("input", (e) => {
   );
 
   renderizar(filtrados);
-});
-
-backToTop.addEventListener("click", () => {
-  window.scrollTo({
-    top: 0,
-
-    behavior: "smooth",
-  });
-});
-
-window.addEventListener("scroll", () => {
-  backToTop.style.display = window.scrollY > 400 ? "block" : "none";
 });
 
 carregarCatalogo();
