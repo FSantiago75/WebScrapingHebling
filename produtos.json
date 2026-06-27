@@ -1,0 +1,450 @@
+{
+  "restaurante": "Bar Hebling Jundiaí",
+  "url": "https://www.barheblingjundiai.com.br/",
+  "geradoEm": "2026-06-27T20:10:17.073Z",
+  "precoMaximo": 60,
+  "quantidade": 63,
+  "produtos": [
+    {
+      "secao": "Entradas",
+      "titulo": "Carpaccio",
+      "descricao": "Acompanhado de pesto de rúcula, folhas de rúcula, parmesão e pão italiano.",
+      "preco": 59.9,
+      "imagem": "https://lh3.googleusercontent.com/GxSC93ZnKxHAfqsDjSCW9rFsa1ibSVfrJfSEqcgnvsY0gC5tdh3CkOaN0Us50J40h5MN-tDEjPKy5Jnv7VdPWQLFAkam5q--=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Entradas",
+      "titulo": "Bruschetta do cheff",
+      "descricao": "Deliciosa entrada.Preparada com pão italiano, tomates finos, azeite, manjericão e muçarela",
+      "preco": 26.9,
+      "imagem": "https://lh3.googleusercontent.com/--B6OtPJyCqAAwUdcVwhJnkLNu7ZYiJDEJVcwuHA3MSpnT5YEy3WensMXl_OHfvdt1Z8HaikPLNtBi354FDWHD61hxw3hSDSWWE=w612-h420-fcrop64=1,035713b7ffffe1e9-nu-e365-rw"
+    },
+    {
+      "secao": "Entradas",
+      "titulo": "Caesar",
+      "descricao": "Alface americano, tomate cereja, tiras de frango grelhado, parmesão e molho caesar.",
+      "preco": 42.9,
+      "imagem": "https://lh3.googleusercontent.com/HyYWnXuX5pEkBy6Ydw7KU0Me_NahuhlaQIAUTdBHk0WM53xhSVEviI0qpMcyQN9_Q7lHTpF7rg9Ee67gs-Q3kORkapGHaV5v=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sanduíches",
+      "titulo": "Churrasco Hebling Boca de Anjo",
+      "descricao": "Carne selecionada com queijo muçarela montado em pão baguete cortado em “boca de anjo”, acompanha vinagrete e maionese defumada.",
+      "preco": 45.9,
+      "imagem": "https://lh3.googleusercontent.com/cGdSMpjild3__F7lDBQEXVptFTjIZ3w7jKK-8VaHVvJlNoQ7Ww801Mt172VUsO6NG8nZ04RDtCQIyCp3j2BCv96laZeGasUFxw=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sanduíches",
+      "titulo": "Burger Salada Hebling",
+      "descricao": "Hamburguer, muçarela, alface, maionese defumada no pão de brioche, acompanha ketchup e mostarda.",
+      "preco": 45.9,
+      "imagem": "https://lh3.googleusercontent.com/JJspYePhbfLp4yoqGhumTvLOOsH617npM5rW3aIs-Nigf8-pCac9uBwL92WbeXlU-4JIgBsUh1DbALN4OVY0Wxr1HTa5rvEkJQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sanduíches",
+      "titulo": "Burger Hebling",
+      "descricao": "Hamburguer 180g, creme de gorgonzola, bacon, alface, tomate, maionese defumada no pão de brioche, acompanha ketchup e mostarda.",
+      "preco": 57.9,
+      "imagem": "https://lh3.googleusercontent.com/0jRweFeJmAt468rJxDwm5_mOtEKH1ebO-bzgmx88QwUuRzPc2ou-eshtCfwqgpbWMnTFTgdzb6PpzYCXM1AfcgQnlsqAeUHt=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sanduíches",
+      "titulo": "Burger Bacon Hebling",
+      "descricao": "Hamburguer, cheddar e bacon no pão brioche, acompanha ketchup e mostarda.",
+      "preco": 49.9,
+      "imagem": "https://lh3.googleusercontent.com/UFdcxjP9H2nuOXath-rcRvh7mxmUFSkd5asDpy19qjOkPgIyEf6SHSD3DeH06-F8IeIOO_AlDXgmXTL6siVb_AhgPpRclEVK=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Batata frita",
+      "descricao": "Acompanha molho ketchup.",
+      "preco": 39.9,
+      "imagem": "https://lh3.googleusercontent.com/ITEZC6ffi12pvork2Fz3cJFWVQxDK8fsrXKqb2Wa3Z5nEBWM5P5YCE4jajdCC7MkQau7kdbxwVsHfRd-cbDW68NgRZeQiWFCfQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Batata frita com cheddar e bacon",
+      "descricao": "Acompanha molho ketchup.",
+      "preco": 49.9,
+      "imagem": "https://lh3.googleusercontent.com/g-fFWUzFP3_pI7H44Vy2HkXbnhGLXXfG9PwMS5b06HnokJYXq-0yndm4yhamDpIGTym2LD_GSvwKJ3wDfiQI7GSZxmwB4NuNAA=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Batata rústica ao alho e alecrim",
+      "descricao": "Acompanha molho ketchup.",
+      "preco": 42.9,
+      "imagem": "https://lh3.googleusercontent.com/WyoL5w37bDVCEBKl9y2CHruq0NhxEv4F1MB4HhzaWBROfJf5a5LYZ3y0DYunnTl1f4ysBvikrOYkmxtcL34AhH1afF8l8tnfxA=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Dadinho de tapioca",
+      "descricao": "Acompanha geléia apimentada.",
+      "preco": 39.9,
+      "imagem": "https://lh3.googleusercontent.com/hOGILrQjE3h5bnGAWHOI-2aHx3YSqcyKU9zsGRRgQ_4r___11cz0yDbhHAEpzQ7wunESoulvI6uCqMuIXe-1tLGRlMmA3dh1=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Bolinho de Salmão",
+      "descricao": "Bolinho de salmão dourado e crocante por fora, com recheio macio e sabor marcante de salmão temperado",
+      "preco": 45.9,
+      "imagem": "https://lh3.googleusercontent.com/3UeqeGxQ_88H4sB7q6BG7loz8xJ8gMw3Vw_smoHDEcdL90966yaC4T5xJv2_dHiudgEfhI-VnTx7TEtfI-oekjQEJVjJm76OQQ=w612-h420-fcrop64=1,000012cdffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Bolinho 3 Queijos",
+      "descricao": "Bolinho de três queijos crocante por fora e irresistivelmente cremoso por dentro, feito com uma deliciosa combinação de queijos selecionados",
+      "preco": 49.9,
+      "imagem": "https://lh3.googleusercontent.com/VRcHWDqfgIFLYBcY_Pktz1ULCsrD8Pvqwu-6-YY9Yg2NTckfYGtwMqc1NM_bDlUZSGZuu44l77r3E5aKuTA68o_n9oukiOFK_A=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Bolinho de Feijoada",
+      "descricao": "O sabor da feijoada em cada mordida. Crocante por fora, cremoso e cheio de tempero por dentro",
+      "preco": 49.9,
+      "imagem": "https://lh3.googleusercontent.com/bgowLsBu5u_3FZYVk_NhGDnHc6i6JC8TugBfxklH4RKBmbmW6P1gRfF_myEUzLby3OCok07qQFO0yZnK0x--Iu3d0n71_ck_=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Bolinho de bacalhau (12 unid.)",
+      "descricao": "Acompanha molho de pimenta.",
+      "preco": 57.9,
+      "imagem": "https://lh3.googleusercontent.com/51WdFpy3C2ECXo1MuqSqZwXEN6HwJNqyRsmqVoKc6zbBMMrO_2ctdCn9_5BTVBNYSjnhp84zpeLfOI5weaTNUSZMaF2QjpI_ig=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Bolinho de abóbora com carne seca",
+      "descricao": "Bolinho de abóbora com carne seca, crocante por fora e macio por dentro",
+      "preco": 49.9,
+      "imagem": "https://lh3.googleusercontent.com/7ODR6u1ejQlbiotJQo9tAAVhYJiNPK6e6ycjGVVuQGeBhe2H2DSfZQ6-_89iFF2NTKLaPtuQriFeImiu3uyon0Q8t_OkQsB_hA=w612-h420-fcrop64=1,07b40000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Coxinha Bobó de Camarão",
+      "descricao": "Coxinha de bobó de camarão com casquinha crocante e recheio cremoso",
+      "preco": 49.9,
+      "imagem": "https://lh3.googleusercontent.com/IIz6fqPkrQWvTeWKC1x3wNlkWjNB3YnArTd61aG8Q8lsiltBes25AP2XPg0l6V0N9Th3_fI3tA0ygKlI9X1i8vTNk1JUXXgz6Q=w612-h420-fcrop64=1,03da0000fc25ffff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Coxinha de Costelinha ao Barbecue",
+      "descricao": "Coxinha de costelinha desfiada ao molho barbecue, com casquinha crocante e recheio suculento",
+      "preco": 49.9,
+      "imagem": "https://lh3.googleusercontent.com/ya2nPFVGKueUWliy0e4c3qEBaCYBdDxSbDlB2HomZ4dLptZXSaqDduObLze3jWSM_gNKtUqGzQXKrQWmN_7oez-RZDyXJhFq=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Coxinha de Frango com Requeijão",
+      "descricao": "Crocante por fora e recheada com frango desfiado e requeijão cremoso que derrete a cada mordida",
+      "preco": 49.9,
+      "imagem": "https://lh3.googleusercontent.com/R0xH7wcX_C3kUc1eL8I5FdukogfWBoemhjn3C5b7xEHnJnHI8a5x9omS0BvrtzDGNl9pmn8k6b9GrHedUFyBCIfrEfETgEgP=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Palito de queijo (12 und)",
+      "descricao": "Acompanha molho rose",
+      "preco": 42.9,
+      "imagem": "https://lh3.googleusercontent.com/TSlZWmyGPZZCoRW_hMm8A3uscmaWynv1JvJkpWdXTsEvNNxgZMJXzdLTRQAFo1jKcLMMhDtdKfWBYhHxUuMnhxwO8iAoIJtI5Q=w612-h420-fcrop64=1,309b2a32d103cfb6-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Polenta Frita",
+      "descricao": "Coberto com parmesão ralado.",
+      "preco": 39.9,
+      "imagem": "https://lh3.googleusercontent.com/WQCinDilFhq7d9wYv5lVDxzCdpn1LGIcWtlMcHlytaL19ujzAX4mKzjChyYN8GTy2Ci8Egt3FadRolYA2N-QpZNAaNS68mIK_Fk=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Pastel Misto (10 unid.)",
+      "descricao": "A porção pode ser montada com os sabores: carne e queijo.Acompanha vinagrete.",
+      "preco": 42.9,
+      "imagem": "https://lh3.googleusercontent.com/UGFckNQJYkcO7oZmtkEWIh78SYXvW34jBs5Evc0p7yxlD96mUkybHHKV2C8rgutPrwNSsBqBBrYVu04VX81KMAaTOAeyB9a6=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Frango Frito Tradicional de Jundiaí",
+      "descricao": "Tradicional sobrecoxa de frango desossada super crocante, acompanhada de polenta frita.",
+      "preco": 59.9,
+      "imagem": "https://lh3.googleusercontent.com/YFzlrSx8a-UFwOjhoOwhrTS0MCGYinBanto48HdkcTcd3mVwfcpc2EoMYMb0uTbby5_7Yy2Akc5c6-60FG_jcK_bd0pHfK8=w612-h420-fcrop64=1,0f072c4af0f8ebf7-nu-e365-rw"
+    },
+    {
+      "secao": "Porções",
+      "titulo": "Tiras de frango crispy",
+      "descricao": "Acompanha mostarda adocicada.",
+      "preco": 49.9,
+      "imagem": "https://lh3.googleusercontent.com/VgHngKLJMfC8Vo-AN-h3bEFFuljqXyIt2n-v24B6VKgEqQ4eXqPMX0alGhpI3x2fWC8i986kmRLxE3EdnY5xGstF1ttONVMt=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "Pilsen Hebling Puro Malte",
+      "descricao": "Leve, dourada e refrescante.4,5% Vol. Alc. - 12 IBU.",
+      "preco": 15.1,
+      "imagem": "https://lh3.googleusercontent.com/ffBuBS9AR6G5HTIZ85Y3GN5LqpDzFdmJyVf8I0JavPOLfA8d4Yw6bTegntafQ6PcqrS8r53wz4l4_KGYdT81_rPzjYLFLf18Qw=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "Weiss",
+      "descricao": "Cerveja de trigo alemã, encorpada com notas de cravo e banana.4,5% Vol. Alc. - 8 IBU.",
+      "preco": 17.2,
+      "imagem": "https://lh3.googleusercontent.com/CKiUbKXrN-bpsP8eshqkA9mmDH0EvPeahLwhBFJdW_jtP5AYZNmhagcDYxWQ_wzu98cguSyAWQKlwoqmidpJQobDoblCeTD3gg=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "Vienna Lager",
+      "descricao": "Equilibrada, remete a bala toffee e leve dulçor de caramelo.5,1% Vol. Alc. - 20 IBU.",
+      "preco": 17.2,
+      "imagem": "https://lh3.googleusercontent.com/2sSMHERcQ8xj7xQm0WsqH0kIl-rDBKOyg58KmpndwFiX-pBkPU_j5z1UzdP7kpMBl97sYcgCb_vUrDojHveOG_SphiuRZwaGhg=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "American Ipa",
+      "descricao": "Amarga e frutada, notas cítricas dos lúpulos americanos.7% Vol. Alc. - 45 IBU.",
+      "preco": 19.9,
+      "imagem": "https://lh3.googleusercontent.com/afN0TpKn_5J-emTC6Jdvalz9FjByZ4vj6oKQd0J4PxE4d4pmZmX_4Tj6BJFet0UmzSXf5_SbdfYzqbwzhwjAlBEKhwaJdHvQtQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "Brown Porter",
+      "descricao": "Notas de chocolate amargo e café.5% Vol. Alc. - 25 IBU",
+      "preco": 19.9,
+      "imagem": "https://lh3.googleusercontent.com/Lzq6fv0U3ZNyzuO40rbCLxcMuoB8QDW2TyebR3lMQJ_wNdlbBtwANHCSxLbsgHECTLfcBqQUwTgMGufH-Hm5HnKg4QMJ3uIKIQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "Irish Red Ale",
+      "descricao": "Maltada, com sutil toque de malte tostado, típica cerveja irlandesa.5% Vol. Alc. - 15 IBU",
+      "preco": 19.9,
+      "imagem": "https://lh3.googleusercontent.com/nkSJ5JTJTo-skYnm-yKnmE5XmsUb3eBtfm-Nf0X_OFJ8MKxVcB6fT5uFPkru37af7XOZ4IAbc_C7GXyGrX0uYPS1zPZTVT7E-Q=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "Ginger Ale",
+      "descricao": "Cerveja elaborada com gengibre e açúcar mascavo7,3% Vol. Alc. - 20 IBU",
+      "preco": 21.3,
+      "imagem": "https://lh3.googleusercontent.com/9M7ERxZSxhgARdTstYkm5S91L56oyc7cZA8sO7av9pdoNyiJNzerN4YoiwvCXVkDioiEgkjELtdO8VwUhiQy7J3ByJ39Vzbl=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "Pink Lemonade",
+      "descricao": "Cerveja tipo fruitbier com framboesa e limão.3,7% Vol. Alc. - 3 IBU.",
+      "preco": 16.9,
+      "imagem": "https://lh3.googleusercontent.com/IOBPQnKddES9B8u6OPy2sk_gSbLTBIIuTuYte0E6LNWA4heRHLHOl4mAnJDhJndXrkIx72NNli4pHJhbnFGPlLsvBLq9-R9dvi4=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "Oatmeal Stout",
+      "descricao": "Chopp sazional: Escura, tostada e encorpada, levemente adocicada, aveia e maltes especiais.5,1% Vol. Alc. - 25 IBU.",
+      "preco": 17.3,
+      "imagem": "https://lh3.googleusercontent.com/WPmb0Hy1IJO47DDO5FgSYRM-yXE_uqABqDVHGjSj1T_9mXztL8i2aZbQLxBDVWXmRJUwRIhWFcjCOCQn0yAil8rz2NnWlLmt=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "Tábua de degustação",
+      "descricao": "6 estilos a escolher.",
+      "preco": 28,
+      "imagem": "https://lh3.googleusercontent.com/jkNU-OCFN_RbF6F27FWBX7VYQuyoFGD3onYKZlH5279o4_pGuh_cO1xMDtDGzGzPpdKaE8ATi0qwxRIfdKG3g6KmScwuiU2uuwY=w612-h420-fcrop64=1,00004570ffffba8f-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "Hebling Tripel",
+      "descricao": "Chopp edição especial: Estilo belga de alto teor alcoólico, clara, espuma densa e cremosa, apresenta sabores frutados e condimentados.9% Vol. Alc. - 10 IBU.",
+      "preco": 28.6,
+      "imagem": "https://lh3.googleusercontent.com/SRdTW3AQXyvZagbrZ5BWn6F3bHQhFZgyAnu0AdVAOTEfZKMOK3Z_Z4CZ-UXRn0Xvm-0YpNhhk3j8fjK3cDCHlhOPC3O9KNzqRg=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "A Essência Premium da Hebling",
+      "titulo": "Pumpkin Ale",
+      "descricao": "Deliciosa cerveja de Abóbora com Cravo",
+      "preco": 23.2,
+      "imagem": "https://lh3.googleusercontent.com/UAVDYr97hg1Tr4hVb66UtHzafe9yY7e40B28pHoN7DNtx_x5yF2MON9fyic5t5QHR8xyNEV6Ia9PRUgIdZo-9XrYUVVc6SOb=w612-h420-fcrop64=1,36552cafadc2de16-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Água sem gás",
+      "descricao": "",
+      "preco": 7.5,
+      "imagem": "https://lh3.googleusercontent.com/FC-3m-VsLIAOTwzs5SFaAtIeHykLCvnu3ZWKOKrhxoqZ5JurCL8dRA0r9lMHd0XncQGXB9iVBhas8AsA06yTBoPG_KBPyscw=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Água com gás",
+      "descricao": "",
+      "preco": 7.5,
+      "imagem": "https://lh3.googleusercontent.com/doYr_BlrburM0fYpaE7BtQ-20NJ-iWEtEqOmyamyaLy43RymUyjQbFQpyW3wWti1-ilPvZLKfdLULGAguqFCdBMSBgwOJVR3oQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Água Tônica Schweppes",
+      "descricao": "",
+      "preco": 8.5,
+      "imagem": "https://lh3.googleusercontent.com/dIsgAvBat6pFeUWhjAHC7RwgjxxkAdw2tVtQSylRaZypvf9iO7gd4fu1OU75WFNn3HqgP3c13IORoLflVFCgd_pi6FhPVh5J=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Schweppes Citrus",
+      "descricao": "",
+      "preco": 8.5,
+      "imagem": "https://lh3.googleusercontent.com/JFHfBLAN_7WObV-2vcCcfUUhaoU9F71jwZVbNYB2CfQBl4hn9dZ3v5wntaubV_hktVVdDlNpnopnFvnjwWAuoEwaSjVNn5QS=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Coca-cola KS",
+      "descricao": "",
+      "preco": 8.5,
+      "imagem": "https://lh3.googleusercontent.com/q8J8AnkyMXUkMnrXdBkxMZ0hAKgKFnL2s4RVwoUXeVr-Bgyf6gUPBISPXDRRGY-M8nVZ22Rl7SqGdfxEjRnebCIt0TbXI6Qu=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Coca-cola Zero KS",
+      "descricao": "",
+      "preco": 8.5,
+      "imagem": "https://lh3.googleusercontent.com/1FNXwL6kauC0ZfnGOqQiShXmtYRPcivYOUF013LuMrITlt8cfYFISsdE69JrwgHM_n9ZAm8gSJQn5C3gBdLdqFcMFdVimesBdA=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Coca-cola original",
+      "descricao": "",
+      "preco": 8.5,
+      "imagem": "https://lh3.googleusercontent.com/QBwsFt-fwLWmO0jEgiykZztwWZ_e6I2C6xCNBYDrKyHtjfYva7kRWw80q35HbCxrR9pvW-ao9H1vpN7Hhk7x-5DBWtwNd39DvMI=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Coca-cola zero",
+      "descricao": "",
+      "preco": 8.5,
+      "imagem": "https://lh3.googleusercontent.com/87GAbwHzHEjeiCEasczPIUvQpACpzEzhA5YVfyHGd6TtTRJ2TMzRlvQVaRjuFMQZHoXdC7y64WY64xLFitbDk1LUt1s8F9km=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Guaraná Antartica",
+      "descricao": "",
+      "preco": 8.5,
+      "imagem": "https://lh3.googleusercontent.com/XgLaLXCrBl4Q4ammYe_REvfmXvAzDGJW-1AEfaLHR54TwOY2naPg1fqTxenIItvvAf2_u9e43ViiLRv0BekOcIUWG7V3CcS_=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Guaraná Antartica Zero",
+      "descricao": "",
+      "preco": 8.5,
+      "imagem": "https://lh3.googleusercontent.com/lCA04bIDmJyr7f2lDZJD_bL9NwS6SH-W7VEuPGMudZ6zIaQCowM-u29ZGW37tPcuhx8FkKx89--DdCyI0rkov5lMfJgmuMJU=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Sprite",
+      "descricao": "",
+      "preco": 8.5,
+      "imagem": "https://lh3.googleusercontent.com/P8fMStHVOe-X2klPNqMLs6jOh-jxBL2xJVo_rOmvfG8H11whZEoTCoUnvkpXCNxcFFULfKp2fsZM-gmyCmq5r1cQxHr-NUQncQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Red Bull",
+      "descricao": "",
+      "preco": 18,
+      "imagem": "https://lh3.googleusercontent.com/6l_3OrHrZTy2arEZfWdXmzyqR8q0SEaL0H-f2lcHBR3PGB5-7HDw3Vfyyd1H_zehfF09R8Lm4XqHtU8MoLZWOgRSePkTMmQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Smirnoff ICE",
+      "descricao": "",
+      "preco": 16,
+      "imagem": "https://lh3.googleusercontent.com/RCnl81OIBfQrbkHmfKP8QQ_5a-L_tnJdYEiDFTPAWMmZr7qxNjIJjNmX9-_KmUhhYBdxW0nPv-BtX_H7E3977rSmj4M9obTlDQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Heineken Zero",
+      "descricao": "",
+      "preco": 14.9,
+      "imagem": "https://lh3.googleusercontent.com/eUz9zbdAjcpKPH9Tu9DkNyzY6UQUmjrmlkeeNvH_OdNuzp09tUx2_Y2G-7aqI9YUagCZpyTljhsjKQvmRVvVOQBac-ad36lv=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Bebidas",
+      "titulo": "Soda Italiana",
+      "descricao": "Xarope de frutas e água com gás, sabores: cereja, maçã verde,frutas vermelhas, cramberry, limão siciliano e tangerina.",
+      "preco": 19,
+      "imagem": "https://lh3.googleusercontent.com/yhMmQ4mwqiffnZpXXqz_c7f5ac6usJ0YZu6CgifTBU906xUq7rvlHLRqU_jI6UGxobelNC9ZirMabYagZ8ap9zdUlNqP0dyJ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sucos",
+      "titulo": "Abacaxi - 370ml (Polpa)",
+      "descricao": "",
+      "preco": 11.9,
+      "imagem": "https://lh3.googleusercontent.com/VfVqpL1zRUr1Nwz8L2lQ2ZEs24nFK5v8b0NcjG1K58j-xgyW_Gipfv7WfAQs4cylyTBI59S8n9WyjaswhfrInvktpjVgmrIw=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sucos",
+      "titulo": "Abacaxi com hortelã - 370ml (Polpa)",
+      "descricao": "",
+      "preco": 11.9,
+      "imagem": "https://lh3.googleusercontent.com/fv8xQge_Pvive8omFcP2fdNSmvFIENm_5sIGeNa7RG0IylU1vjUtZyYQtvImHKAFPr8bncLcwht8q52h_aKC00WFm6YOJbEVfA=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sucos",
+      "titulo": "Caju - 370ml (Polpa)",
+      "descricao": "",
+      "preco": 11.9,
+      "imagem": "https://lh3.googleusercontent.com/JPfvbLbQHpAl92dnYIirH3uRWa7DXWErLLIApuEWkdaZEMzk1mxevFc-OiL5N4ycribMpz_KQGmN2I8EDMncsWK57dU9W1LU=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sucos",
+      "titulo": "Laranja - 370ml",
+      "descricao": "",
+      "preco": 12.9,
+      "imagem": "https://lh3.googleusercontent.com/ya4rLXXVJ92sKhJtDJKxS8K6aY9YlniXw7Lj7QjjAjoqkccyGGdHtFzAX7YKuY80d97xs3FbWFDl3GYGS_GRM-v4JlC6tH4-wg=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sucos",
+      "titulo": "Limão - 370ml",
+      "descricao": "",
+      "preco": 11.9,
+      "imagem": "https://lh3.googleusercontent.com/IpJl3ewaoZfERGjQ9aI5p11Thgn1exaLP-Td2MkS-cL8B_83cVSbMBz-INh1xGXmsl3eTOCeRdMSz5rgrrMpSITwFyMg9RXI=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sucos",
+      "titulo": "Limonada suiça - 370ml",
+      "descricao": "",
+      "preco": 16,
+      "imagem": "https://lh3.googleusercontent.com/CGS1v_j0bTFl6cVl5xqh-xFHV6lSc-qm-qON0LPZrwJLTlqEQsX-1Gl0C5bP9I48Z_eldgg2DCbwYOQUUckc3k8ShWAEvG4n_yM=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sucos",
+      "titulo": "Frutas vermelhas - 370ml",
+      "descricao": "",
+      "preco": 11.9,
+      "imagem": "https://lh3.googleusercontent.com/ptcNDPo5G4EzMEPZjbUJlgEIjMIxW4hMP1dmGWUleSkf-xDALVHpoZ19ZN5UuzSneSwlwUMXF03CN9cjk7GYyz_SGhtwDyqPoJU=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sucos",
+      "titulo": "Maracujá - 370ml (Polpa)",
+      "descricao": "",
+      "preco": 11.9,
+      "imagem": "https://lh3.googleusercontent.com/P9Fyvr8NOv3Uori35-xxb5nf_kTICwYtr-yePPSMPYWIYmg7z38MvVd98Lx77eXhoXJAuWboqKlAHu5eZIXx7ExGmsgjFViE=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sucos",
+      "titulo": "Morango - 370ml (Polpa)",
+      "descricao": "",
+      "preco": 11.9,
+      "imagem": "https://lh3.googleusercontent.com/HS4LpBornceTT5SVMHkhx7m1w9T2lpuABr8-zx5aTCV3hHtr0NUfZjy31CIZRiukZ77VjOxSzxYd91lthQlgjpyGw5ljpLXC4mc=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Sucos",
+      "titulo": "Suco com duas frutas - 370ml",
+      "descricao": "",
+      "preco": 18,
+      "imagem": "https://lh3.googleusercontent.com/u9SZjgfj9awa4POqIvSd0fCyWjnd85YCIOgtuP2eXxyTe756OrttkBW42mRpUF7TKihyE04hwZYxfcqeOfe-KlUucmbrrqHIhA=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Coquetéis sem álcool",
+      "titulo": "Beijo Doce",
+      "descricao": "Morango congelado, leite condensado e suco de laranja.",
+      "preco": 23,
+      "imagem": "https://lh3.googleusercontent.com/Pn5Fytln3TAIvNtJK6ScIdC7LWNdFtjSZUZCKk_mrrGNwWr0BWdKB7NHevaDLTRRHAR8vQCDnYXrRSX2bINHRhci2nPsR1tOIw=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    },
+    {
+      "secao": "Coquetéis sem álcool",
+      "titulo": "Pineapple",
+      "descricao": "Suco de abacaxi, limão e pessego, creme de leite e açúcar mascavo.",
+      "preco": 25,
+      "imagem": "https://lh3.googleusercontent.com/Z2xfNq0x0Faorz1DpwKlOoXkIfR_5gKoPKd57OoReaZZm9hSTl3movcdnaChlFScvJMNO0-lOeEbOjWIir2XPi4a2HDIgUt4ef4=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
+    }
+  ]
+}

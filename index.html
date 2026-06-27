@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Cardápio até R$ 60,00</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="hero">
+
+        <div class="hero-content">
+
+            <h1>🍺 Bar Hebling</h1>
+
+            <p class="subtitle">
+                Produtos encontrados com valor de até <strong>R$ 60,00</strong>
+            </p>
+
+            <div class="warning">
+
+                <span>⚠️</span>
+
+                <div>
+
+                    <strong>Atenção</strong>
+
+                    <p>
+                        Este catálogo foi gerado automaticamente.
+                        Confira sempre o preço exibido em cada produto antes de realizar o pedido.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </header>
+
+    <main class="container">
+
+        <section class="info">
+
+            <div>
+                <span id="productCount">0</span>
+                Produtos
+            </div>
+
+            <div>
+                Atualizado em
+                <span id="generatedDate">--</span>
+            </div>
+
+        </section>
+
+        <div class="search-area">
+
+            <input
+                type="text"
+                id="search"
+                placeholder="🔎 Pesquisar produto..."
+            >
+
+        </div>
+
+        <nav id="sectionsNav"></nav>
+
+        <div id="catalog"></div>
+
+    </main>
+
+    <button id="backToTop">
+        ↑
+    </button>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
