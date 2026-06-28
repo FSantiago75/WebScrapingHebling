@@ -24,7 +24,7 @@ body{
 
     color:white;
 
-    padding:60px 25px;
+    padding:40px 25px;
 
     text-align:center;
 
@@ -79,14 +79,43 @@ body{
 
 }
 
-.warning-content{
-    display:flex;
-    flex-direction:column;
-    gap:12px;
-}
-.warning-content-event{
+.event-banner{
+    margin-top:40px;
+
+    padding:18px 24px;
+
+    background:linear-gradient(135deg,#36383a,#999fa569);
+    border:1px dashed #999fa569;
+    color:white;
+
+    border-radius:12px;
+
     font-size:16px;
+
     font-weight:500;
+
+    line-height:1.6;
+
+    text-align:center;
+
+}
+
+.event-banner i{
+
+    color:#1d8bff;
+
+    font-size:24px;
+
+    margin-right:8px;
+
+}
+
+.event-banner strong{
+
+    color:#4da3ff;
+
+    font-weight:700;
+
 }
 
 .container{
@@ -464,6 +493,14 @@ body{
 .card img{
 
     height:210px;
+
+}
+
+.event-banner{
+
+    font-size:14px;
+
+    padding:16px 18px;
 
 }
 
