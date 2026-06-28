@@ -2,7 +2,7 @@ const catalog = document.getElementById("catalog");
 const sectionsNav = document.getElementById("sectionsNav");
 const search = document.getElementById("search");
 const productCount = document.getElementById("productCount");
-const generatedDate = document.getElementById("generatedDate");
+const backToTop = document.getElementById("backToTop");
 
 let produtos = [];
 let dados = null;
@@ -38,6 +38,18 @@ async function carregarCatalogo() {
 function renderizar(lista) {
   catalog.innerHTML = "";
   sectionsNav.innerHTML = "";
+
+  if (!lista.length) {
+    catalog.innerHTML = `
+            <div class="empty-state">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <h3>Nenhum produto encontrado</h3>
+                <p>Tente buscar por outro nome ou seção.</p>
+            </div>
+        `;
+
+    return;
+  }
 
   const secoes = {};
 
@@ -158,9 +170,8 @@ function criarId(texto) {
 const OFFSET_TOPO = 28;
 const DURACAO_SCROLL = 600;
 
-function scrollSuave(alvo) {
+function scrollSuave(destino) {
   const inicio = window.scrollY;
-  const destino = alvo.getBoundingClientRect().top + inicio - OFFSET_TOPO;
   const distancia = destino - inicio;
 
   let comeco = null;
@@ -186,15 +197,28 @@ sectionsNav.addEventListener("click", (e) => {
   e.preventDefault();
 
   const alvo = document.getElementById(link.hash.slice(1));
-  if (alvo) scrollSuave(alvo);
+  if (alvo)
+    scrollSuave(alvo.getBoundingClientRect().top + window.scrollY - OFFSET_TOPO);
 });
 
-search.addEventListener("input", (e) => {
-  const termo = e.target.value.toLowerCase().trim();
+window.addEventListener("scroll", () => {
+  backToTop.classList.toggle("visible", window.scrollY > 400);
+});
 
+backToTop.addEventListener("click", () => scrollSuave(0));
+
+function debounce(fn, ms) {
+  let timeout = null;
+
+  return (...args) => {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => fn(...args), ms);
+  };
+}
+
+const buscarProdutos = debounce((termo) => {
   if (!termo) {
     renderizar(produtos);
-
     return;
   }
 
@@ -206,6 +230,10 @@ search.addEventListener("input", (e) => {
   );
 
   renderizar(filtrados);
+}, 220);
+
+search.addEventListener("input", (e) => {
+  buscarProdutos(e.target.value.toLowerCase().trim());
 });
 
 carregarCatalogo();
