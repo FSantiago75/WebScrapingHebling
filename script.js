@@ -168,7 +168,7 @@ function criarId(texto) {
 }
 
 const OFFSET_TOPO = 28;
-const DURACAO_SCROLL = 600;
+const DURACAO_SCROLL = 1200;
 
 function scrollSuave(destino) {
   const inicio = window.scrollY;
@@ -180,7 +180,7 @@ function scrollSuave(destino) {
     if (comeco === null) comeco = tempo;
 
     const t = Math.min((tempo - comeco) / DURACAO_SCROLL, 1);
-    const ease = t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+    const ease = t < 0.5 ? 8 * t * t * t * t : 1 - Math.pow(-2 * t + 2, 4) / 2;
 
     window.scrollTo(0, inicio + distancia * ease);
 
