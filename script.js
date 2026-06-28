@@ -155,6 +155,40 @@ function criarId(texto) {
     .toLowerCase();
 }
 
+const OFFSET_TOPO = 28;
+const DURACAO_SCROLL = 600;
+
+function scrollSuave(alvo) {
+  const inicio = window.scrollY;
+  const destino = alvo.getBoundingClientRect().top + inicio - OFFSET_TOPO;
+  const distancia = destino - inicio;
+
+  let comeco = null;
+
+  function animar(tempo) {
+    if (comeco === null) comeco = tempo;
+
+    const t = Math.min((tempo - comeco) / DURACAO_SCROLL, 1);
+    const ease = t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+
+    window.scrollTo(0, inicio + distancia * ease);
+
+    if (t < 1) requestAnimationFrame(animar);
+  }
+
+  requestAnimationFrame(animar);
+}
+
+sectionsNav.addEventListener("click", (e) => {
+  const link = e.target.closest("a");
+  if (!link) return;
+
+  e.preventDefault();
+
+  const alvo = document.getElementById(link.hash.slice(1));
+  if (alvo) scrollSuave(alvo);
+});
+
 search.addEventListener("input", (e) => {
   const termo = e.target.value.toLowerCase().trim();
 

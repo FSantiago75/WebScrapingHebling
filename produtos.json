@@ -1,9 +1,9 @@
 {
   "restaurante": "Bar Hebling Jundiaí",
   "url": "https://www.barheblingjundiai.com.br/",
-  "geradoEm": "2026-06-27T20:10:17.073Z",
+  "geradoEm": "2026-06-28T20:16:47.646Z",
   "precoMaximo": 60,
-  "quantidade": 63,
+  "quantidade": 48,
   "produtos": [
     {
       "secao": "Sanduíches",
@@ -153,90 +153,111 @@
       "imagem": "https://lh3.googleusercontent.com/VgHngKLJMfC8Vo-AN-h3bEFFuljqXyIt2n-v24B6VKgEqQ4eXqPMX0alGhpI3x2fWC8i986kmRLxE3EdnY5xGstF1ttONVMt=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "Pilsen Hebling Puro Malte",
       "descricao": "Leve, dourada e refrescante.4,5% Vol. Alc. - 12 IBU.",
       "preco": 15.1,
       "imagem": "https://lh3.googleusercontent.com/ffBuBS9AR6G5HTIZ85Y3GN5LqpDzFdmJyVf8I0JavPOLfA8d4Yw6bTegntafQ6PcqrS8r53wz4l4_KGYdT81_rPzjYLFLf18Qw=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "Weiss",
       "descricao": "Cerveja de trigo alemã, encorpada com notas de cravo e banana.4,5% Vol. Alc. - 8 IBU.",
       "preco": 17.2,
       "imagem": "https://lh3.googleusercontent.com/CKiUbKXrN-bpsP8eshqkA9mmDH0EvPeahLwhBFJdW_jtP5AYZNmhagcDYxWQ_wzu98cguSyAWQKlwoqmidpJQobDoblCeTD3gg=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "Vienna Lager",
       "descricao": "Equilibrada, remete a bala toffee e leve dulçor de caramelo.5,1% Vol. Alc. - 20 IBU.",
       "preco": 17.2,
       "imagem": "https://lh3.googleusercontent.com/2sSMHERcQ8xj7xQm0WsqH0kIl-rDBKOyg58KmpndwFiX-pBkPU_j5z1UzdP7kpMBl97sYcgCb_vUrDojHveOG_SphiuRZwaGhg=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "American Ipa",
       "descricao": "Amarga e frutada, notas cítricas dos lúpulos americanos.7% Vol. Alc. - 45 IBU.",
       "preco": 19.9,
       "imagem": "https://lh3.googleusercontent.com/afN0TpKn_5J-emTC6Jdvalz9FjByZ4vj6oKQd0J4PxE4d4pmZmX_4Tj6BJFet0UmzSXf5_SbdfYzqbwzhwjAlBEKhwaJdHvQtQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "Brown Porter",
       "descricao": "Notas de chocolate amargo e café.5% Vol. Alc. - 25 IBU",
       "preco": 19.9,
       "imagem": "https://lh3.googleusercontent.com/Lzq6fv0U3ZNyzuO40rbCLxcMuoB8QDW2TyebR3lMQJ_wNdlbBtwANHCSxLbsgHECTLfcBqQUwTgMGufH-Hm5HnKg4QMJ3uIKIQ=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "Irish Red Ale",
       "descricao": "Maltada, com sutil toque de malte tostado, típica cerveja irlandesa.5% Vol. Alc. - 15 IBU",
       "preco": 19.9,
       "imagem": "https://lh3.googleusercontent.com/nkSJ5JTJTo-skYnm-yKnmE5XmsUb3eBtfm-Nf0X_OFJ8MKxVcB6fT5uFPkru37af7XOZ4IAbc_C7GXyGrX0uYPS1zPZTVT7E-Q=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "Ginger Ale",
       "descricao": "Cerveja elaborada com gengibre e açúcar mascavo7,3% Vol. Alc. - 20 IBU",
       "preco": 21.3,
       "imagem": "https://lh3.googleusercontent.com/9M7ERxZSxhgARdTstYkm5S91L56oyc7cZA8sO7av9pdoNyiJNzerN4YoiwvCXVkDioiEgkjELtdO8VwUhiQy7J3ByJ39Vzbl=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "Pink Lemonade",
       "descricao": "Cerveja tipo fruitbier com framboesa e limão.3,7% Vol. Alc. - 3 IBU.",
       "preco": 16.9,
       "imagem": "https://lh3.googleusercontent.com/IOBPQnKddES9B8u6OPy2sk_gSbLTBIIuTuYte0E6LNWA4heRHLHOl4mAnJDhJndXrkIx72NNli4pHJhbnFGPlLsvBLq9-R9dvi4=w612-h420-fcrop64=1,10750000ef8affff-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "Oatmeal Stout",
-      "descricao": "Chopp sazional: Escura, tostada e encorpada, levemente adocicada, aveia e maltes especiais.5,1% Vol. Alc. - 25 IBU.",
+      "descricao": "Chopps sazional: Escura, tostada e encorpada, levemente adocicada, aveia e maltes especiais.5,1% Vol. Alc. - 25 IBU.",
       "preco": 17.3,
       "imagem": "https://lh3.googleusercontent.com/WPmb0Hy1IJO47DDO5FgSYRM-yXE_uqABqDVHGjSj1T_9mXztL8i2aZbQLxBDVWXmRJUwRIhWFcjCOCQn0yAil8rz2NnWlLmt=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "Tábua de degustação",
       "descricao": "6 estilos a escolher.",
       "preco": 28,
       "imagem": "https://lh3.googleusercontent.com/jkNU-OCFN_RbF6F27FWBX7VYQuyoFGD3onYKZlH5279o4_pGuh_cO1xMDtDGzGzPpdKaE8ATi0qwxRIfdKG3g6KmScwuiU2uuwY=w612-h420-fcrop64=1,00004570ffffba8f-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "Hebling Tripel",
       "descricao": "Chopp edição especial: Estilo belga de alto teor alcoólico, clara, espuma densa e cremosa, apresenta sabores frutados e condimentados.9% Vol. Alc. - 10 IBU.",
       "preco": 28.6,
       "imagem": "https://lh3.googleusercontent.com/SRdTW3AQXyvZagbrZ5BWn6F3bHQhFZgyAnu0AdVAOTEfZKMOK3Z_Z4CZ-UXRn0Xvm-0YpNhhk3j8fjK3cDCHlhOPC3O9KNzqRg=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
     },
     {
-      "secao": "A Essência Premium da Hebling",
+      "secao": "Chopps",
       "titulo": "Pumpkin Ale",
       "descricao": "Deliciosa cerveja de Abóbora com Cravo",
       "preco": 23.2,
       "imagem": "https://lh3.googleusercontent.com/UAVDYr97hg1Tr4hVb66UtHzafe9yY7e40B28pHoN7DNtx_x5yF2MON9fyic5t5QHR8xyNEV6Ia9PRUgIdZo-9XrYUVVc6SOb=w612-h420-fcrop64=1,36552cafadc2de16-nu-e365-rw"
     },
     {
+      "secao": "Chopps",
+      "titulo": "Pilsen Estação Louveira",
+      "descricao": "Tradicional, leve e saborosa.4,5% Vol. Alc. - 8 IBU.",
+      "preco": 12.8,
+      "imagem": "https://lh3.googleusercontent.com/cjYxrHfvuxJqiSBfCnwYJR0tjDlGTFxHfx5iPG7ov5rGO6mK8sZcNy5qR6HK82bjtE-tI43cKOieeC89Ywnc1y9EDTOf4NEvaw=w612-h420-fcrop64=1,00000000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "Chopps",
+      "titulo": "Cooler de Vinho",
+      "descricao": "Bebida refrescante à base de vinho tinto.4% Vol. Alc.",
+      "preco": 15.8,
+      "imagem": "https://lh3.googleusercontent.com/g0eLkjL5MsNTyRgEXeIrW2jF4HdrRjw6NkfoIo9irzujyrANNca2vulcCazwHY0wIhl-jttvMqmHfMopdwls6qMdjMbHXytR=w612-h420-fcrop64=1,07ec0000ffffffff-nu-e365-rw"
+    },
+    {
+      "secao": "Chopps",
+      "titulo": "Chope Black",
+      "descricao": "Cremosa, adocicada e muito saborosa.4% Vol. Alc. - 5 IBU.",
+      "preco": 16.3,
+      "imagem": "https://lh3.googleusercontent.com/IZ1s3bo5CXGIPulJ0cQKBJpU-usOjaDE2rYFA8hnhNsGio2aCIxqrmCuL4OoX6okOHgkCoYb1v-1LqYYCZjDwRaiXT6V5T0Z6g=w612-h420-fcrop64=1,07ec0000ffffffff-nu-e365-rw"
+    },
+     {
       "secao": "Bebidas",
       "titulo": "Água sem gás",
       "descricao": "",

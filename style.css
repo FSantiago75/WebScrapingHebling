@@ -4,10 +4,6 @@
     box-sizing:border-box;
 }
 
-html{
-    scroll-behavior:smooth;
-}
-
 body{
 
     font-family:
@@ -56,9 +52,9 @@ body{
 
     display:flex;
 
-    align-items:flex-start;
-
-    justify-content:center;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
 
     gap:18px;
 
@@ -77,8 +73,9 @@ body{
 }
 
 .warning span{
-
     font-size:32px;
+    align-items: center;
+    padding-bottom: 8px;
 
 }
 
@@ -326,7 +323,6 @@ body{
 
 .warning{
 
-    flex-direction:column;
 
     text-align:left;
 
